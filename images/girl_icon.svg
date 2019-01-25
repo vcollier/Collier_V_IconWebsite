@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="girl" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 335.81 417.39" style="enable-background:new 0 0 335.81 417.39;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F9DFCA;}
+	.st1{fill:#F4A2BA;}
+	.st2{fill:none;stroke:#FF558E;stroke-miterlimit:10;}
+	.st3{fill:#F4B0C9;}
+	.st4{fill:#99765E;}
+	.st5{fill:none;stroke:#444444;stroke-miterlimit:10;}
+</style>
+
+<defs>
+	<script>
+		let theIcon = document.querySelector("#girl");
+
+		function logThisIcon() {
+			console.log(this.id);
+		}
+
+		theIcon.addEventListener("click", logThisIcon);
+	</script>
+</defs>
+
+<circle id="head" class="st0" cx="165.78" cy="260.93" r="156.46"/>
+<g id="mouth">
+	<path class="st1" d="M118.17,346.84c0,0,57.01,53.43,109.62,0c0,0-31.95-22.59-53.16-5.23
+		C174.63,341.61,149.02,324.53,118.17,346.84z"/>
+	<path class="st2" d="M118.17,346.84c0,0,50.95,14.02,109.62,0"/>
+</g>
+<g id="blush">
+	<circle class="st3" cx="89.33" cy="298.94" r="12.17"/>
+	<circle class="st3" cx="247.01" cy="298.94" r="12.17"/>
+</g>
+<g id="eyes">
+	<circle cx="118.63" cy="252.01" r="19.98"/>
+	<circle cx="216.86" cy="252.01" r="19.98"/>
+</g>
+<path id="hair" class="st4" d="M182.15,151.87c0,0-3.64,31.43-92.82,45.99c0,0-50.01,0.18-76.28,29.01c0,0,10.52-48.12,38.02-73.03
+	c2.23-2.02,4.22-4.27,5.95-6.73c5.64-8.02,22.19-27.95,59.19-49.18c0,0-35.05-60.3,21.57-90.3c20.64-10.94,45.74-10.12,65.36,2.55
+	c21.76,14.05,41.12,40.77,10.64,88.54c0,0,35.98,16.31,72.68,62.65c0,0,25.96,28.51,33.1,70.67c0,0-21.98,10.69-56.6-24.33
+	c0,0-20.37-16.03-39.74-20.46C186.68,178.87,182.15,151.87,182.15,151.87z"/>
+<path id="hair_tie" class="st5" d="M116.22,97.93c0,0,52.16-8.45,97.57,0.79"/>
+</svg>

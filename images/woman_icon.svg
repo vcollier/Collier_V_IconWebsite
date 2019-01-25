@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="blondeWoman" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 321.56 351.65" style="enable-background:new 0 0 321.56 351.65;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F4D0B8;}
+	.st1{fill:#FFFFFF;stroke:#F47AA6;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:#F9EB8C;}
+</style>
+
+<defs>
+	<script>
+		let theIcon = document.querySelector("#blondeWoman");
+
+		function logThisIcon() {
+			console.log(this.id);
+		}
+
+		theIcon.addEventListener("click", logThisIcon);
+	</script>
+</defs>
+
+<ellipse id="head" class="st0" cx="153.6" cy="181.08" rx="97.53" ry="126.04"/>
+<path id="mouth" class="st1" d="M125.15,218.06c0,0-1.04,40.49,34.26,39.11s20.77-51.22,20.77-51.22L125.15,218.06z"/>
+<g id="eyes">
+	<circle cx="122.82" cy="139.1" r="14.12"/>
+	<circle cx="198.7" cy="134.44" r="14.12"/>
+</g>
+<g id="hair">
+	<path class="st2" d="M162.21,55.54c0,0-29.33,84.78-106.14,114.04c0,0-4.81,97.95,69.08,132.09c0,0,39.07,17.38,75.83-10.39
+		c0,0,46.83-30.02,50.05-104.34l70.53,0.47v164.25L0,349.36V197.68c0,0,7.48-183.68,132.74-196.3s158.45,65.43,158.45,65.43
+		s35.53,95.86,30.37,120.84S162.21,55.54,162.21,55.54z"/>
+	<path class="st2" d="M250.88,171.81c0,0,0.56,12.28,0.15,15.12l69.1,1.59c0,0-34.83-18.53-76.95-57.98
+		C243.19,130.55,250.62,162.54,250.88,171.81z"/>
+</g>
+<g id="eye_brows">
+	<path class="st2" d="M136.94,118.23c0,0,0.19-2.7-14.12,3.07C122.82,121.31,129,111.68,136.94,118.23z"/>
+	<path class="st2" d="M186.69,115.95c0,0,11.6-4.25,21.43,0C217.95,120.2,199.99,102.85,186.69,115.95z"/>
+</g>
+</svg>

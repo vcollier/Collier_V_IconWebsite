@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="fries" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 201 309.8" style="enable-background:new 0 0 201 309.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#AF2308;}
+	.st1{fill:#F4CF16;stroke:#E0B814;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#DB230B;}
+</style>
+
+<defs>
+	<script>
+		let theIcon = document.querySelector("#fries");
+
+		function logThisIcon() {
+			console.log(this.id);
+		}
+
+		theIcon.addEventListener("click", logThisIcon);
+	</script>
+</defs>
+
+<path id="back_of_box" class="st0" d="M0,155.8c0,0,94-162,201,0h-63c0,0-26,39-71,0H0z"/>
+<g id="fries">
+	<polygon class="st1" points="60.24,52.98 60.24,188.98 77.54,188.98 77.54,32.97 	"/>
+	<polygon class="st1" points="27.58,81.09 27.58,192.2 44.88,192.2 44.88,64.74 	"/>
+	<polygon class="st1" points="44.88,42.47 44.88,188.98 62.17,188.98 62.17,20.91 	"/>
+	<polygon class="st1" points="75.76,48.42 75.76,202.8 93.05,202.8 93.05,25.71 	"/>
+	<polygon class="st1" points="91.85,58.47 91.85,212.85 109.15,212.85 109.15,35.75 	"/>
+	<polygon class="st1" points="106.88,30.7 106.88,185.08 124.17,185.08 124.17,7.98 	"/>
+	<polygon class="st1" points="120.97,74.18 120.97,228.56 138.26,228.56 138.26,51.46 	"/>
+	<polygon class="st1" points="140.58,62.91 140.58,206.87 157.88,206.87 157.88,41.72 	"/>
+	<polygon class="st1" points="157.88,78.62 157.88,222.59 175.17,222.59 175.17,57.44 	"/>
+</g>
+<polygon id="box" class="st2" points="46,309.8 0,155.8 201,155.8 164,309.8 "/>
+</svg>

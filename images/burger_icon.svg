@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="burger" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 336.46 280.75" style="enable-background:new 0 0 336.46 280.75;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DDAD28;stroke:#DDAD28;stroke-miterlimit:10;}
+	.st1{fill:#51310E;}
+	.st2{fill:#BF1919;}
+	.st3{fill:#287F0B;}
+	.st4{fill:#AF8725;}
+</style>
+
+<defs>
+	<script>
+		let theIcon = document.querySelector("#burger");
+
+		function logThisIcon() {
+			console.log(this.id);
+		}
+
+		theIcon.addEventListener("click", logThisIcon);
+	</script>
+</defs>
+
+<path id="top_bun" class="st0" d="M34.09,40.94c38.09-26.73,148.1-73.43,255.57-6.66c20.91,12.99,34.71,35.26,35.62,59.86
+	c0.79,21.35-8.17,42.69-47.17,42.69c-78,0-213.98,0-213.98,0s-81.85,5.3-60.6-60.4C8.95,59.64,21.57,49.73,34.09,40.94z"/>
+<path id="meat" class="st1" d="M26.94,244.05c0,0-20.61-17.39,0-32.84s288.47-2.9,288.47-2.9s19.32,16.43,0,35.74H26.94z"/>
+<path id="tomato" class="st2" d="M26.94,211.21v-34.77l37.99-9.01h250.48v40.88C315.42,208.31,229.78,221.51,26.94,211.21z"/>
+<path id="letuce" class="st3" d="M44,187.75c-13.48,6.04-28.82,8.65-32.25-8.17c-1.15-5.64-0.35-11.5,1.91-16.8
+	c2.08-4.87,5.35-11.75,9.48-17.96c5.47-8.22,14.84-12.98,24.71-12.89l243.97,2.2c5.16,0.05,10.23,1.42,14.67,4.04
+	c4.41,2.6,10.47,6.62,17.53,12.46c4.4,3.65,7.6,8.53,9.28,14c4.21,13.7,8.6,37.59-18.31,22.59c-0.49-0.27-0.99-0.54-1.49-0.78
+	c-1.17-0.56-3.69-1.77-7.65-3.62c-11.54-5.39-25.18-2.73-34.01,6.45c-6.9,7.17-18.24,11.5-36.12,0.54
+	c-10.83-6.64-24.69-5.37-34.43,2.79c-14.75,12.36-37.07,24.2-57.34,7.33c-9.78-8.13-23.43-9.08-34.41-2.67
+	c-9.61,5.61-21.43,7.99-31.96-2.86C68.79,185.35,55.52,182.6,44,187.75z"/>
+<path id="bottom_bun" class="st0" d="M315.42,280.75H26.94c0,0-5.15-14.81,0-36.7h288.47C315.42,244.05,322.5,261.43,315.42,280.75z
+	"/>
+<g id="seeds">
+	<circle class="st4" cx="152.73" cy="18.85" r="3.07"/>
+	<circle class="st4" cx="48.48" cy="71.9" r="3.07"/>
+	<circle class="st4" cx="77.22" cy="89.71" r="3.07"/>
+	<circle class="st4" cx="154.19" cy="80.56" r="3.07"/>
+	<circle class="st4" cx="267.34" cy="89.18" r="3.07"/>
+	<circle class="st4" cx="141.38" cy="52.79" r="3.07"/>
+	<circle class="st4" cx="205.81" cy="43.36" r="3.07"/>
+	<circle class="st4" cx="288.04" cy="65.77" r="3.07"/>
+	<circle class="st4" cx="119.33" cy="100.15" r="3.07"/>
+	<circle class="st4" cx="277.3" cy="114.67" r="3.07"/>
+	<circle class="st4" cx="240.51" cy="65.77" r="3.07"/>
+	<circle class="st4" cx="174.25" cy="46.43" r="3.07"/>
+	<circle class="st4" cx="74.16" cy="49.73" r="3.07"/>
+	<circle class="st4" cx="188.03" cy="18.85" r="3.07"/>
+	<circle class="st4" cx="88.34" cy="117.74" r="3.07"/>
+	<circle class="st4" cx="300.3" cy="95.84" r="3.07"/>
+	<circle class="st4" cx="232.04" cy="28.36" r="3.07"/>
+	<circle class="st4" cx="264.27" cy="43.36" r="3.07"/>
+	<circle class="st4" cx="110.13" cy="62.7" r="3.07"/>
+	<circle class="st4" cx="113.19" cy="31.43" r="3.07"/>
+	<circle class="st4" cx="51.55" cy="111.61" r="3.07"/>
+	<circle class="st4" cx="197.45" cy="71.9" r="3.07"/>
+	<circle class="st4" cx="235.1" cy="95.84" r="3.07"/>
+	<circle class="st4" cx="197.45" cy="103.45" r="3.07"/>
+	<circle class="st4" cx="160.32" cy="114.67" r="3.07"/>
+	<circle class="st4" cx="235.1" cy="124.56" r="3.07"/>
+	<circle class="st4" cx="21.59" cy="100.38" r="3.07"/>
+</g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="unicorn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 303.97 427.07" style="enable-background:new 0 0 303.97 427.07;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:#CECECE;}
+	.st2{fill:#FFE1E1;}
+	.st3{fill:#EFEDED;}
+	.st4{fill:#DBD6D2;}
+	.st5{fill:#FFE9E9;}
+</style>
+
+<defs>
+	<script>
+		let theIcon = document.querySelector("#unicorn");
+
+		function logThisIcon() {
+			console.log(this.id);
+		}
+
+		theIcon.addEventListener("click", logThisIcon);
+	</script>
+</defs>
+
+<g id="Layer_1" class="st0">
+		
+</g>
+<g id="trace">
+	<g id="horn">
+		<polyline class="st1" points="116.78,169.05 150.08,0 182.07,169.05 116.78,169.05 		"/>
+		<polygon class="st2" points="123.61,134.38 170.16,106.09 171.06,110.85 122.16,141.75 		"/>
+		<polygon class="st2" points="119.18,156.86 173.73,124.97 174.59,129.5 117.9,163.37 		"/>
+		<polyline class="st2" points="130.82,169.05 177.03,142.43 178.14,148.25 141.94,169.05 130.82,169.05 		"/>
+		<polygon class="st2" points="126.54,119.5 167.79,93.56 166.85,88.62 127.86,112.81 		"/>
+		<polygon class="st2" points="131.29,95.41 164.2,74.58 163.19,69.24 132.63,88.62 		"/>
+		<polygon class="st2" points="136.25,70.22 160.4,54.53 159.03,47.27 137.95,61.61 		"/>
+		<polygon class="st2" points="142.16,40.21 155.84,30.41 154.79,24.88 143.54,33.23 		"/>
+	</g>
+	<g id="ears">
+		<path class="st2" d="M64.21,182.26c0,0-136.95-96.76-10.82,91.03s0,0,0,0S25.22,213.74,64.21,182.26"/>
+		<path class="st2" d="M239.76,185.4c0,0,136.95-96.76,10.82,91.03s0,0,0,0S278.75,216.88,239.76,185.4"/>
+	</g>
+	<path id="face-left" class="st3" d="M145.16,427.05c0,0-17.58,3.51-40.07-42.88L46.73,259.03c0,0-27.42-66.08,42.88-89.98H155
+		l-2.28,258.07L145.16,427.05z"/>
+	<path id="face-right" class="st4" d="M159.93,427.05c0,0,17.58,3.51,40.07-42.88l58.35-125.13c0,0,27.42-66.08-42.88-89.98h-65.38
+		l2.28,258.07L159.93,427.05z"/>
+	<path id="snout" class="st5" d="M197.07,380.28c0,0-42.78-69.09-92.4,0l-0.85,1.16c0,0,20.75,46.57,41.34,45.6h14.77l1.8,0.01
+		c0,0,17.87,0.85,38.27-42.9L197.07,380.28z"/>
+	<path id="mouth" d="M147.34,349.74v77.38H155v-77.28c0,0-4.89-1.14-7.66,0"/>
+	<g id="eyes">
+		<circle cx="177.23" cy="247.77" r="12.41"/>
+		<circle cx="123.38" cy="247.77" r="12.41"/>
+	</g>
+	<g id="nostrils">
+		<circle cx="131.81" cy="403.66" r="4.01"/>
+		<circle cx="169.44" cy="403.66" r="4.01"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="bear" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 365.32 393.31" style="enable-background:new 0 0 365.32 393.31;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#877467;}
+	.st1{fill:#9B8878;}
+	.st2{fill:#353433;}
+</style>
+
+<defs>
+	<script>
+		let theIcon = document.querySelector("#bear");
+
+		function logThisIcon() {
+			console.log(this.id);
+		}
+
+		theIcon.addEventListener("click", logThisIcon);
+	</script>
+</defs>
+
+<g id="trace_1_">
+	<circle class="st0" cx="309.05" cy="57.95" r="54.28"/>
+	<circle class="st0" cx="56.23" cy="57.95" r="54.28"/>
+	<path class="st1" d="M183.11,393.31V28.83c0,0-161.9,16.11-163.92,182.24S183.11,393.31,183.11,393.31z"/>
+	<path class="st0" d="M183.11,393.31V28.83c0,0,161.9,16.11,163.92,182.24S183.11,393.31,183.11,393.31z"/>
+	<circle id="nose" class="st2" cx="183.11" cy="268.56" r="41.91"/>
+	<polygon id="mouth" class="st2" points="175.35,309.74 175.35,392.18 183.11,393.31 190.64,392.22 190.64,309.74 	"/>
+	<g id="eyes">
+		<circle class="st2" cx="141.2" cy="151.71" r="17.33"/>
+		<circle class="st2" cx="225.02" cy="151.71" r="17.33"/>
+	</g>
+</g>
+</svg>

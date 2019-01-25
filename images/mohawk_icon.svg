@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="mohawk" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 347.11 507.14" style="enable-background:new 0 0 347.11 507.14;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F7D8C4;}
+	.st1{fill:#F700E0;}
+</style>
+
+<defs>
+	<script>
+		let theIcon = document.querySelector("#mohawk");
+
+		function logThisIcon() {
+			console.log(this.id);
+		}
+
+		theIcon.addEventListener("click", logThisIcon);
+	</script>
+</defs>
+
+<circle id="head" class="st0" cx="173.56" cy="333.58" r="173.56"/>
+<path id="hair" class="st1" d="M158.23,160.02V18.95l6.32,15.34l9.01-29.78l3.63,25.27l6.34-17.14l4.49,14.44L192.52,0v161.05
+	c0,0-17.4-2.09-34.29-0.36V160.02z"/>
+<g id="eyes">
+	<circle cx="123.63" cy="282.9" r="17.23"/>
+	<circle cx="220.66" cy="282.9" r="17.23"/>
+</g>
+<path id="mouth" d="M113.3,426.5c0,0,58.49,32.17,124.6,0S113.3,426.5,113.3,426.5z"/>
+<g id="eye_brows">
+	<path d="M148.21,260.22c0,0-26.68-17.15-51.45-15.24C96.77,244.98,129.79,233.54,148.21,260.22z"/>
+	<path d="M246.38,247.69c0,0-33.03-11.43-51.45,15.24C194.94,262.93,221.61,245.78,246.38,247.69"/>
+</g>
+</svg>
